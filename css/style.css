@@ -33,7 +33,7 @@ align-items: center;
  }
 
  .icones i{
-    padding: 20px;
+    padding: 10px;
     border-radius: 50%;
 
  }
@@ -61,5 +61,5 @@ align-items: center;
                 font-size: 25px;
             }
             .LinkBio p {
-                font-size: 20px;
+                font-size: 15px;
             }           
